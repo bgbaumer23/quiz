@@ -1,5 +1,8 @@
 body{
   background-image: url('All_Ligned_Up.jpg');
+  background-repeat:no-repeat;
+  background-position: center;
+  background-size: cover;
 }
 
 .grid {
